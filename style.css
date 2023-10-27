@@ -22,4 +22,5 @@ img{
 body{
     background-image: url(barracailuminada.jpg);
     background-repeat: no-repeat;
+    width: 100%;
 }
