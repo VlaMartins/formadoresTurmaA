@@ -1,5 +1,6 @@
 #tituloprincipal{
-    color: rgb(182, 21, 21);
+    background-color: rgb(182, 21, 21);
+    color: rgb(250, 235, 215);
     text-align: center;
     font-size: 50px;
 }
