@@ -8,8 +8,15 @@ h1{
     color: rgb(62, 21, 21);
 }
 
-p{
-    color: blueviolet;
-    color: greenyellow;
+.rosa{
     color: rgb(149, 14, 122);
 }
+
+.violeta{
+    color: blueviolet;
+}
+
+.verdelimao{
+    color: greenyellow;
+}
+
