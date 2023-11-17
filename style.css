@@ -21,6 +21,7 @@ img{
 
 body{
     /*background-image: url(barracailuminada.jpg);*/
+    background-color: rgb(187, 229, 243);
     background-repeat: no-repeat;
     background-size: cover;
 }
