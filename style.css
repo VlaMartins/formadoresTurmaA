@@ -20,13 +20,15 @@
     text-indent: 50px;
 }
 
-img{
-    width: 30%;
-}
 
 body{
     /*background-image: url(barracailuminada.jpg);*/
     background-color: #9DD8FF;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+#imgprincipal{
+    height: ; /*altura*/
+    width: 300px; /*largura*/
 }
