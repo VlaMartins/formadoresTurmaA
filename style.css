@@ -1,6 +1,6 @@
 #tituloprincipal{
     background-color: rgb(182, 21, 21);
-    color: rgb(250, 235, 215);
+    color: rgb(10 10 10);
     text-align: center;
     font-size: 50px;
 }
@@ -27,13 +27,15 @@ body{
     background-color: #9DD8FF;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-top:0px;
 }
 
 #imgprincipal{
     width: 500px; /*largura*/
     display: block;
     margin: auto;
-}
+
+}   
 
 .img50{
     width: 500px;
