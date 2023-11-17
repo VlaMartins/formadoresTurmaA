@@ -29,5 +29,7 @@ body{
 }
 
 #imgprincipal{
-    width: 300px; /*largura*/
+    width: 500px; /*largura*/
+    display: block;
+    margin: auto;
 }
