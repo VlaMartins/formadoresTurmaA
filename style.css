@@ -31,7 +31,7 @@ body{
 #imgprincipal{
     width: 500px; /*largura*/
     display: block;
-    margin: center;
+    margin: auto;
 }
 
 .img50{
