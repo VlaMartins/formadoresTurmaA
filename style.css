@@ -24,6 +24,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     margin-top:0px;
+    font-family: Calibri;
+    font-size: 20px;
+    line-height: 1.5;
 }
 
 #imgprincipal{
