@@ -33,3 +33,7 @@ body{
     display: block;
     margin: auto;
 }
+
+.img50{
+    width: 50%;
+}
