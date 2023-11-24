@@ -16,9 +16,16 @@ body{
 
 #tituloprincipal{
     background-color: #056aad;
+    padding: 20px;
     color: rgb(10 10 10);
     text-align: center;
     font-size: 50px;
+} 
+
+#imgprincipal{
+    width: 200px; /*largura*/
+    padding: 15px;
+    margin: 0px;
 } 
 
 
@@ -27,10 +34,6 @@ body{
     padding: 30px;
 }
 
-#imgprincipal{
-    width: 100px; /*largura*/
-    padding: 15px;
-} 
 
 .titulonivel2{
     font-size: 30px;
