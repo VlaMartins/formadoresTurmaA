@@ -52,7 +52,7 @@ body{
 }
 
  .listaacampamento{
-    background-image: linear-gradient(#35AAF2, #98d1f5, );
+    background-image: linear-gradient(red, #98d1f5, );
     color: black;
  } 
 
