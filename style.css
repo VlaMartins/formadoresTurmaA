@@ -45,3 +45,7 @@ body{
 .quadradinho{
     list-style-type: square;
 }
+
+.circulo{
+    list-style-type: circle;
+}
