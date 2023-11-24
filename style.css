@@ -27,9 +27,7 @@ body{
 }
 
 #imgprincipal{
-    width: 70px; /*largura*/
-    display: block;
-    margin: auto;
+    width: 100px; /*largura*/
     padding: 15px;
 } 
 
