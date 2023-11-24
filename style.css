@@ -51,7 +51,10 @@ body{
     font-size: 20px;
 }
 
-  
+ .listaacampamento{
+    background-color: green;
+    color: whitesmoke;
+ } 
 
 .imgcentro{
     width: 400px;
