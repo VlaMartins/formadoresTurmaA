@@ -1,9 +1,36 @@
+body{
+    /*background-image: url(barracailuminada.jpg);*/
+    background-color: #E8F9FF;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top:0px;
+    font-family: Calibri;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.titulo{
+    background-color: red;
+}
+
 #tituloprincipal{
     background-color: #0B9EFD;
     color: rgb(10 10 10);
     text-align: center;
     font-size: 50px;
+} 
+
+
+.principal{
+
 }
+
+#imgprincipal{
+    width: 500px; /*largura*/
+    display: block;
+    margin: auto;
+    padding: 15px;
+} 
 
 .titulonivel2{
     font-size: 30px;
@@ -18,23 +45,9 @@
 }
 
 
-body{
-    /*background-image: url(barracailuminada.jpg);*/
-    background-color: #E8F9FF;
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin-top:0px;
-    font-family: Calibri;
-    font-size: 20px;
-    line-height: 1.5;
-}
 
-#imgprincipal{
-    width: 500px; /*largura*/
-    display: block;
-    margin: auto;
-    padding: 15px;
-}   
+
+  
 
 .imgcentro{
     width: 400px;
