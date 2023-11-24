@@ -11,6 +11,7 @@ body{
 
 .titulo{
     background-color:  #056aad;
+    margin: 0px;
 }
 
 #tituloprincipal{
@@ -22,7 +23,7 @@ body{
 
 
 .principal{
-
+    margin: 0px;
 }
 
 #imgprincipal{
