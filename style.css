@@ -28,10 +28,9 @@ body{
     margin: 0px;
 } 
 
-
+/*xxxxxxxxxxxxxxxxxxxxxxxxxxx*/
 .principal{
     margin: 0px;
-    padding: 30px;
 }
 
 
@@ -40,9 +39,10 @@ body{
     color: #35AAF2;
 }
 
-.textorosa{
+.texto{
     color: whitesmoke;
-    text-align: justify;
+    font-size: 20px;
+    padding: 30px;
     text-indent: 50px;
     margin: 0px;
 }
