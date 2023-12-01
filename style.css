@@ -7,7 +7,7 @@ body{
 }
 
 .titulo{
-    background-image: linear-gradient(#021e28, #0d6a8c);
+    background-image: linear-gradient(#35AAF2, #98d1f5);
     margin: 0px;
 }
 
@@ -46,7 +46,7 @@ body{
 
 
 .camping{
-    background-image: linear-gradient(#056aad, #35AAF2);
+    background-image: linear-gradient(#35AAF2, #98d1f5);
     color: whitesmoke;
     font-size: 20px;
     padding: 0px;
