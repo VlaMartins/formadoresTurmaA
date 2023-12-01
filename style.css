@@ -1,8 +1,5 @@
 body{
-    /*background-image: url(barracailuminada.jpg);*/
     background-color: #054961;
-    background-repeat: no-repeat;
-    background-size: cover;
     font-family: Calibri;
     font-size: 20px;
     line-height: 1.5;
@@ -10,7 +7,7 @@ body{
 }
 
 .titulo{
-    background-image: linear-gradient(#022034 #195d8b);
+    background-image: linear-gradient(black, white);
     margin: 0px;
 }
 
