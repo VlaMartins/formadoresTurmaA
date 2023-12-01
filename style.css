@@ -1,6 +1,6 @@
 body{
     /*background-image: url(barracailuminada.jpg);*/
-    background-color: #E8F9FF;
+    background-color: #054961;
     background-repeat: no-repeat;
     background-size: cover;
     font-family: Calibri;
@@ -10,7 +10,7 @@ body{
 }
 
 .titulo{
-    background-color:  #056aad;
+    background-color:  #056aad #5bb6f3;
     margin: 0px;
 }
 
