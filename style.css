@@ -10,7 +10,7 @@ body{
 }
 
 .titulo{
-    background-color:  #022034 #195d8b;
+    background-image: linear-gradient(#022034 #195d8b);
     margin: 0px;
 }
 
