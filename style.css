@@ -46,14 +46,14 @@ body{
 
 
 .camping{
-    background-image: linear-gradient(#35AAF2, #98d1f5);
+    background-image: linear-gradient(#0c3e5d, #98d1f5);
     color: whitesmoke;
     font-size: 20px;
     padding: 0px;
 }
 
  .listaacampamento{
-    background-image: linear-gradient( #35AAF2, #98d1f5);
+    background-image: linear-gradient(#0c3e5d, #98d1f5);
     color: black;
     padding: 0px;
  } 
