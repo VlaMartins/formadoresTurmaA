@@ -10,14 +10,13 @@ body{
 }
 
 .titulo{
-    background-color:  #056aad #5bb6f3;
+    background-color:  #04568d #5bb6f3;
     margin: 0px;
 }
 
 #tituloprincipal{
-    background-color: #056aad;
     padding: 20px;
-    color: rgb(10 10 10);
+    color: white;
     text-align: center;
     font-size: 50px;
 } 
