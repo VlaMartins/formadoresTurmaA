@@ -21,10 +21,9 @@ body{
 } 
 
 #imgprincipal{
-    width: 200px; /*largura*/
+    width: 150px; /*largura*/
     padding: 1px;
     margin: 0px;
-    border: 5px rgb(255, 255, 255) solid;
     border-radius: 5px;
 } 
 
