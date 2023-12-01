@@ -11,11 +11,11 @@ body{
     margin: 0px;
     padding: 30px;
     display: flex;
-    justify-content: space-between ;
+    justify-content: space-around ;
 }
 
 #tituloprincipal{
-    padding: 20px;
+    padding-left: 80px;
     color: white;
     text-align: center;
     font-size: 50px;
